@@ -1,0 +1,7 @@
+python-telegram-bot==21.5
+requests==2.32.3
+matplotlib==3.9.0
+pandas==2.2.2
+yfinance==0.2.40
+mplfinance==0.12.10b0
+feedparser==6.0.11
